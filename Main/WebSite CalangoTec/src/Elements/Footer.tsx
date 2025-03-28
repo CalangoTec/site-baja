@@ -2,7 +2,7 @@ import instagram from "../assets/instaAmarelo.png";
 import linkedin from "../assets/linkedinAmarelo.png";
 import email from "../assets/logoemailamarelo.png";
 import logoAmarelo from "../assets/logoAmarelo.png";
-import zap from "../Assets/zap.png";
+import zap from "../assets/zap.png";
 
 function Footer() { 
     return (
