@@ -1,5 +1,5 @@
 import bgcalc from "../../../assets/Subsistemas/Calculo/bgcalculo.png"
-import foto1 from "../../../assets/Subsistemas/Calculo/foto1.jpg"
+import foto1 from "../../../assets/Subsistemas/Calculo/foto1p.jpg"
 import foto2 from "../../../assets/Subsistemas/Calculo/foto2.png"
 import SubsistemaGenerico from "../SubsistemaGenerico"
 import fotomilena from "../../../assets/Subsistemas/Calculo/milena.png"

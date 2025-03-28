@@ -1,6 +1,6 @@
 import bgestrutura from "../../../assets/Subsistemas/Estrutura/bgestrutura.png"
 import foto1 from "../../../assets/Subsistemas/Estrutura/foto1.png"
-import foto2 from "../../../assets/Subsistemas/Estrutura/foto2p.jpg"
+import foto2 from "../../../assets/Subsistemas/Estrutura/foto2.jpg"
 import SubsistemaGenerico from "../SubsistemaGenerico"
 import fotomilena from "../../../assets/Subsistemas/Estrutura/milena.png"
 import fotoigor from "../../../assets/Subsistemas/Estrutura/igor.png"
