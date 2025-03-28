@@ -2,8 +2,8 @@ import bgfreios from "../../../assets/Subsistemas/Freio/bgfreios.png"
 import SubsistemaGenerico from "../SubsistemaGenerico"
 import fotoclaudio from "../../../assets/Subsistemas/Freio/claudio.png"
 import Footer from "../../../Elements/Footer.tsx";
-import foto1 from "../../../assets/Subsistemas/Freio/foto1.png"
-import foto2 from "../../../assets/Subsistemas/Freio/foto2.png"
+import foto1 from "../../../assets/Subsistemas/Freio/foto1.jpg"
+import foto2 from "../../../assets/Subsistemas/Freio/freio2.png"
 
 const membros = [
     {nome: "Cláudio Junior", cargo: "Gerente", foto: fotoclaudio},
