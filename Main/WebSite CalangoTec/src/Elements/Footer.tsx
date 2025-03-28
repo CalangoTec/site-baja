@@ -1,4 +1,4 @@
-import instagram from "../Assets/instaAmarelo.png";
+//import instagram from "../Assets/instaAmarelo.png";
 import linkedin from "../Assets/linkedinAmarelo.png";
 import email from "../Assets/logoemailamarelo.png";
 import logoAmarelo from "../Assets/logoAmarelo.png";
@@ -14,7 +14,7 @@ function Footer() {
                 <div className="flex flex-col md:flex-row justify-center items-center space-y-4 md:space-y-0 md:space-x-16 mb-5">
                     {/* Instagram */}
                     <a href="https://www.instagram.com/calangotecbaja/" target="_blank" className="flex items-center gap-2 pr-4 z-10">
-                        <img className="w-8 h-8" src={instagram} alt="Instagram" />
+                        <img className="w-8 h-8" src={"instagram"} alt="Instagram" />
                         <p className="text-[#ffd907] text-[19px] font-bold">Instagram</p>
                     </a>
 
