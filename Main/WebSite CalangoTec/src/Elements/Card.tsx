@@ -30,13 +30,14 @@ function CardGenerico(props: CardGenericoProps) {
             </div>
 
             {/* Botão de ação no canto inferior direito */}
-            <NavLink
+            <Link
                 to={props.link}
                 onClick={() => window.scrollTo(0, 0)}
-                className="absolute bottom-3 right-3 bg-yellow-500 text-gray-900 py-1 px-3 rounded-md text-xs font-semibold group-hover:bg-yellow-600 transition-transform group-hover:scale-105"
             >
-                Saber mais
-            </NavLink>
+                <button className="absolute bottom-3 right-3 bg-yellow-500 text-gray-900 py-1 px-3 rounded-md text-xs font-semibold group-hover:bg-yellow-600 transition-transform group-hover:scale-105 z-10">
+                    Saber mais
+                </button>
+            </Link>
         </div>
     );
 }

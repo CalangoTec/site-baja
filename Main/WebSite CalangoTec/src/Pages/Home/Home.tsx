@@ -4,7 +4,7 @@ import Sobre from "../../Elements/Sobre";
 import Patrocinadores from "../../Elements/Patrocinadores";
 import Carrosel from "../../Elements/Carrosel";
 import Footer from "../../Elements/Footer.tsx";
-import Subs from "../../Elements/subs.tsx";
+import Subs from "../../Elements/Subs.tsx";
 
 export default function Home() {
     return (

@@ -13,25 +13,25 @@ function Footer() {
                 {/* Seção de Redes Sociais */}
                 <div className="flex flex-col md:flex-row justify-center items-center space-y-4 md:space-y-0 md:space-x-16 mb-5">
                     {/* Instagram */}
-                    <a href="https://www.instagram.com/calangotecbaja/" target="_blank" className="flex items-center gap-2 pr-4">
+                    <a href="https://www.instagram.com/calangotecbaja/" target="_blank" className="flex items-center gap-2 pr-4 z-10">
                         <img className="w-8 h-8" src={instagram} alt="Instagram" />
                         <p className="text-[#ffd907] text-[19px] font-bold">Instagram</p>
                     </a>
 
                     {/* Linkedin */}
-                    <a href="https://www.linkedin.com/company/calangotecbaja/posts/?feedView=all" target="_blank" className="flex items-center gap-2">
+                    <a href="https://www.linkedin.com/company/calangotecbaja/posts/?feedView=all" target="_blank" className="flex items-center gap-2 z-10">
                         <img className="w-8 h-8" src={linkedin} alt="Linkedin" />
                         <p className="text-[#ffd907] text-[19px] font-bold">Linkedin</p>
                     </a>
 
                     {/* Email */}
-                    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=calangotecbaja@gmail.com" target="_blank" className="flex items-center gap-2">
+                    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=calangotecbaja@gmail.com" target="_blank" className="flex items-center gap-2 z-10">
                         <img className="w-8 h-8" src={email} alt="Email" />
                         <p className="text-[#ffd907] text-[19px] font-bold">Email</p>
                     </a>
 
                     
-                    <a href="https://api.whatsapp.com/send?phone=5575998775493" target="_blank" className="flex items-center gap-2"> 
+                    <a href="https://api.whatsapp.com/send?phone=5575998775493" target="_blank" className="flex items-center gap-2 z-10"> 
                         <img className="w-8 h-8" src={zap} alt="WhattsApp" />
                         <p className="text-[#ffd907] text-[19px] font-bold">WhatsApp</p>
                     </a>

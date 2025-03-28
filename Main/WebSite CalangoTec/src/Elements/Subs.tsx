@@ -21,7 +21,7 @@ function CardsGrid() {
     return (
         <div className="flex flex-col items-center w-full pt-2">
             <div className="font-[Inter] flex flex-col w-full items-center">
-                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-20 py-4 w-4/5">
+                <div className="flex flex-wrap justify-center items-center gap gap-20 py-4 w-4/5">
                     {cards.map((card) => (
                         <div key={card.id} className="flex flex-col items-center">
                             <CardGenerico {...card} />

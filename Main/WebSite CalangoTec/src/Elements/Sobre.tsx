@@ -19,18 +19,18 @@ function Sobre() {
         <p className="text-[#666666] font-normal text-lg">Conheça um pouco da nossa equipe!</p>
       </div>
 
-      <div className="w-full max-w-screen-lg flex flex-col gap-16">
+      <div className="w-3/4 flex flex-col gap-16">
         {/* Seção 1: Equipe */}
         <div className="flex flex-col md:flex-row justify-center items-center gap-20">
           <div className="md:w-3/5">
             <img className="w-full h-auto" src={timeSobre2} alt="Equipe no Regional de 2024" />
           </div>
           <div className="md:w-1/2 flex flex-col justify-center items-center">
-            <div className="text-center text-black text-3xl font-semibold font-['Inter'] tracking-wide mb-4">
+            <div className="text-center text-black text-xl lg:text-2xl xl:text-3xl 2xl:text-4xl font-semibold font-['Inter'] tracking-wide mb-4">
               <p>Equipe CalangoTec Baja</p>
             </div>
-            <div className="text-justify text-black text-lg font-normal font-['Inter'] tracking-tight">
-              <p>
+            <div className="text-justify text-black text-md xl:text-lg 2xl:text-xl 3xl:text-2xl font-normal font-['Inter'] tracking-tight">
+              <p className='indent-8'>
                 Composta pelos estudantes dos Cursos de Graduação e Cursos Técnicos da instituição de ensino{' '}
                 <strong>SENAI CIMATEC</strong>. Desde 2017 participando de competições organizadas pela SAE Brasil,
                 buscando sempre proporcionar experiências inesquecíveis e conhecimentos fundamentais para quem passa pelo
@@ -49,11 +49,11 @@ function Sobre() {
         {/* Seção 2: Competição */}
         <div className="flex flex-col-reverse md:flex-row justify-center items-center gap-20">
           <div className="md:w-1/2 flex flex-col justify-center items-center">
-            <div className="text-center text-black text-3xl font-semibold font-['Inter'] tracking-wide mb-4">
+            <div className="text-center text-black text-xl lg:text-2xl xl:text-3xl 2xl:text-4xl font-semibold font-['Inter'] tracking-wide mb-4">
               <p>Competição Regional 2023</p>
             </div>
-            <div className="text-justify text-black text-xl font-normal font-['Inter'] tracking-tight">
-              <p>
+            <div className="text-justify text-black text-md xl:text-lg 2xl:text-xl 3xl:text-2xl font-normal font-['Inter'] tracking-tight">
+              <p className='indent-8'>
                 Em 2023 ocorreu a 16° do Campeonato Baja SAE BRASIL - Etapa Nordeste.
                 <br /> Nossa equipe ficou na 8ª posição da classificação geral. Com destaque na prova de velocidade
                 máxima, onde alcançamos a 2ª colocação, ao atingir 38km/h. Um ótimo desempenho, apresentando uma melhora
@@ -75,11 +75,11 @@ function Sobre() {
             <img className="w-full h-auto" src={carroSobre} alt="Equipe no Regional de 2024" />
           </div>
           <div className="md:w-1/2 flex flex-col justify-center items-center">
-            <div className="text-center text-black text-3xl font-semibold font-['Inter'] tracking-wide mb-4">
+            <div className="text-center text-black text-xl lg:text-2xl xl:text-3xl 2xl:text-4xl font-semibold font-['Inter'] tracking-wide mb-4">
               <p>Curiosidades</p>
             </div>
-            <div className="text-justify text-black text-lg font-normal font-['Inter'] tracking-tight">
-              <p>
+            <div className="text-justify text-black text-md xl:text-lg 2xl:text-xl 3xl:text-2xl font-normal font-['Inter'] tracking-tight">
+              <p className='indent-8'>
                 A equipe vem apresentando uma melhora gradativa nas competições regionais ao longo dos últimos 6 anos e
                 almeja seguir progredindo para os próximos anos.
                 <br /> No ano de 2022, nossa equipe foi convidada pela Baja SAE Brasil para desenvolver um MVP de um baja
