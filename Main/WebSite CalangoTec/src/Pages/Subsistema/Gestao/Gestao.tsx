@@ -1,6 +1,6 @@
 import bggestao from "../../../assets/Subsistemas/Gestao/bggestao.png"
 import foto1 from "../../../assets/Subsistemas/Gestao/gestao1.png"
-import foto2 from "../../../assets/Subsistemas/Gestao/gestao2pic.png"
+import foto2 from "../../../assets/Subsistemas/Gestao/gestao2.jpg"
 import SubsistemaGenerico from "../SubsistemaGenerico"
 import fotoaug from "../../../assets/Subsistemas/Gestao/augusto.png"
 import fotoana from "../../../assets/Subsistemas/Gestao/ana.png"
