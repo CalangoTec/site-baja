@@ -2,7 +2,6 @@ import Header from "../../Elements/Header2";
 import timePrincipal2 from '../../assets/timePrincipal2.png'
 import Sobre from "../../Elements/Sobre";
 import Patrocinadores from "../../Elements/Patrocinadores";
-import Carrosel from "../../Elements/Carrosel";
 import Footer from "../../Elements/Footer.tsx";
 import Subs from "../../Elements/Subs.tsx";
 

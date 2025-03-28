@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import Carousel from "react-multi-carousel";
-import "react-multi-carousel/lib/styles.css";
 import CardGenerico from "./Card";
 import eletronicaCard from '../assets/imgCards/eletronicaCard.png';
 import estrutCard from '../assets/imgCards/estrutCard.png';
