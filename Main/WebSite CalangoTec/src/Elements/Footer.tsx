@@ -79,7 +79,7 @@ function Footer() {
 
                 {/* Logo e Direitos Reservados */}
                 <div className="flex flex-col items-center">
-                    <img className="w-16 h-16 mb-2" src={logoAmarelo} alt="Logo CalangoTec" />
+                    <img className="w-16 h-16 mb-2" src={"logoAmarelo"} alt="Logo CalangoTec" />
                     <p className="text-center text-[#ffd907] text-[19px]">
                         © CalangoTec Baja - Direitos Reservados
                     </p>
