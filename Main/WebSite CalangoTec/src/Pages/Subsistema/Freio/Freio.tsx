@@ -1,6 +1,6 @@
-import bgfreios from "../Freio/bgfreios.png"
+import bgfreios from "../../../assets/Subsistemas/Freio/bgfreios.png"
 import SubsistemaGenerico from "../SubsistemaGenerico"
-import fotoclaudio from "../Freio/claudio.png"
+import fotoclaudio from "../../../assets/Subsistemas/Freio/claudio.png"
 import Footer from "../../../Elements/Footer.tsx";
 
 const membros = [

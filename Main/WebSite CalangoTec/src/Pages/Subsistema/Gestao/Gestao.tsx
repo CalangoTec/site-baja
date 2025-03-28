@@ -1,11 +1,11 @@
-import bggestao from "../Gestao/bggestao.png"
-import foto1 from "../Gestao/gestao1.png"
+import bggestao from "../../../assets/Subsistemas/Gestao/bggestao.png"
+import foto1 from "../../../assets/Subsistemas/Gestao/gestao1.png"
 import SubsistemaGenerico from "../SubsistemaGenerico"
-import fotoaug from "../Gestao/augusto.png"
-import fotoana from "../Gestao/ana.png"
-import fotocarol from "../Gestao/carol1.png"
-import fotomarcelo from "../Gestao/marcelo.png"
-import fotothiago from "../Gestao/thiago.png"
+import fotoaug from "../../../assets/Subsistemas/Gestao/augusto.png"
+import fotoana from "../../../assets/Subsistemas/Gestao/ana.png"
+import fotocarol from "../../../assets/Subsistemas/Gestao/carol1.png"
+import fotomarcelo from "../../../assets/Subsistemas/Gestao/marcelo.png"
+import fotothiago from "../../../assets/Subsistemas/Gestao/thiago.png"
 
 
 import Footer from "../../../Elements/Footer.tsx";

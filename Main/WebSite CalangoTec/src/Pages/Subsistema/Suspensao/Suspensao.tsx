@@ -1,9 +1,9 @@
-import bgsuspensao from "../suspensao/bgsuspensao.png"
+import bgsuspensao from "../../../assets/Subsistemas/Suspensao/bgsuspensao.png"
 import SubsistemaGenerico from "../SubsistemaGenerico"
-import fotofernando from "../Suspensao/fernando.png"
-import fotodanilo from "../Suspensao/danilo.png"
-import fotolari from "../Suspensao/lari.png"
-import fotomiguel from "../Suspensao/miguel.png"
+import fotofernando from "../../../assets/Subsistemas/Suspensao/fernando.png"
+import fotodanilo from "../../../assets/Subsistemas/Suspensao/danilo.png"
+import fotolari from "../../../assets/Subsistemas/Suspensao/lari.png"
+import fotomiguel from "../../../assets/Subsistemas/Suspensao/miguel.png"
 import Footer from "../../../Elements/Footer.tsx";
 
 
