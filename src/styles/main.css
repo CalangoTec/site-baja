@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Knewave&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilização personalizada para os pontos do carrossel */
+.react-multi-carousel-dot button {
+    margin-top: 5px;
+    background-color: #FFD700; /* Cor amarela para os pontos */
+    opacity: 0.5; /* Transparência para pontos inativos */
+    transition: opacity 0.3s ease;
+}
+
+.react-multi-carousel-dot--active button {
+    opacity: 1; /* Totalmente visível para o ponto ativo */
+}
+
+.react-multiple-carousel__arrow {
+    background-color: #645502!important;
+}
+
+.react-multiple-carousel__arrow:hover {
+    background-color: #FFD700 !important;
+}
