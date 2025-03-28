@@ -1,8 +1,8 @@
 //import instagram from "../Assets/instaAmarelo.png";
-import linkedin from "../Assets/linkedinAmarelo.png";
-import email from "../Assets/logoemailamarelo.png";
-import logoAmarelo from "../Assets/logoAmarelo.png";
-import zap from "../Assets/zap.png";
+// import linkedin from "../Assets/linkedinAmarelo.png";
+// import email from "../Assets/logoemailamarelo.png";
+// import logoAmarelo from "../Assets/logoAmarelo.png";
+// import zap from "../Assets/zap.png";
 
 function Footer() { 
     return (
@@ -20,19 +20,19 @@ function Footer() {
 
                     {/* Linkedin */}
                     <a href="https://www.linkedin.com/company/calangotecbaja/posts/?feedView=all" target="_blank" className="flex items-center gap-2 z-10">
-                        <img className="w-8 h-8" src={linkedin} alt="Linkedin" />
+                        <img className="w-8 h-8" src={"linkedin"} alt="Linkedin" />
                         <p className="text-[#ffd907] text-[19px] font-bold">Linkedin</p>
                     </a>
 
                     {/* Email */}
                     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=calangotecbaja@gmail.com" target="_blank" className="flex items-center gap-2 z-10">
-                        <img className="w-8 h-8" src={email} alt="Email" />
+                        <img className="w-8 h-8" src={"email"} alt="Email" />
                         <p className="text-[#ffd907] text-[19px] font-bold">Email</p>
                     </a>
 
                     
                     <a href="https://api.whatsapp.com/send?phone=5575998775493" target="_blank" className="flex items-center gap-2 z-10"> 
-                        <img className="w-8 h-8" src={zap} alt="WhattsApp" />
+                        <img className="w-8 h-8" src={"zap"} alt="WhattsApp" />
                         <p className="text-[#ffd907] text-[19px] font-bold">WhatsApp</p>
                     </a>
                 </div>
