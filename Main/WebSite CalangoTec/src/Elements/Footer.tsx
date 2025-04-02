@@ -1,8 +1,8 @@
-import instagram from "../Assets/instaAmarelo.png";
-import linkedin from "../Assets/linkedinAmarelo.png";
-import email from "../Assets/logoemailamarelo.png";
-import logoAmarelo from "../Assets/logoAmarelo.png";
-import zap from "../Assets/zap.png";
+import instagram from "../assets/instagramAmarelo.png";
+import linkedin from "../assets/linkedinAmarelo.png";
+import email from "../assets/logoemailamarelo.png";
+import logoAmarelo from "../assets/logoAmarelo.png";
+import zap from "../assets/zap.png";
 
 function Footer() { 
     return (
