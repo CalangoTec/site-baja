@@ -1,4 +1,4 @@
-import instagram from "../assets/instagramAmarelo.png";
+import instagram from "../assets/instaAmarelo.png";
 import linkedin from "../assets/linkedinAmarelo.png";
 import email from "../assets/logoemailamarelo.png";
 import logoAmarelo from "../assets/logoAmarelo.png";
