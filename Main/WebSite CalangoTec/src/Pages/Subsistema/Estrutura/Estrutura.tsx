@@ -2,12 +2,12 @@ import bgestrutura from "../Estrutura/bgestrutura.png"
 import foto1 from "../Estrutura/foto1.png"
 
 import SubsistemaGenerico from "../SubsistemaGenerico"
-import fotomilena from "../Estrutura/milena.png"
-import fotoigor from "../Estrutura/igor.png"
-import fotodaniel from "../Estrutura/daniel.png"
-import fotoisis from "../Estrutura/isis.png"
-import fotomalu from "../Estrutura/malu.png"
-import fotothiago from "../Estrutura/thiago.png"
+import fotomilena from "../../../assets/Subsistemas/Estrutura/milena.png"
+import fotoigor from "../../../assets/Subsistemas/Estrutura/igor.png"
+import fotodaniel from "../../../assets/Subsistemas/Estrutura/daniel.png"
+import fotoisis from "../../../assets/Subsistemas/Estrutura/isis.png"
+import fotomalu from "../../../assets/Subsistemas/Estrutura/malu.png"
+import fotothiago from "../../../assets/Subsistemas/Estrutura/thiago.png"
 import Footer from "../../../Elements/Footer.tsx";
 
 const membros = [
