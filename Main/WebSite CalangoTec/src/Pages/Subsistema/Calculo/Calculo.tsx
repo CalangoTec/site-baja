@@ -5,7 +5,7 @@ import SubsistemaGenerico from "../SubsistemaGenerico"
 import fotomilena from "../../../assets/Subsistemas/Calculo/milena.png"
 import fotoigor from "../../../assets/Subsistemas/Calculo/igor.png"
 import Footer from "../../../Elements/Footer.tsx";
-import foto1 from "../Calculo/foto1.jpg"
+import foto1 from "../../../assets/Subsistemas/Calculo/foto1p.jpg"
 
 const membros = [
     {nome: "Milena Reis", cargo: "Gerente", foto: fotomilena},

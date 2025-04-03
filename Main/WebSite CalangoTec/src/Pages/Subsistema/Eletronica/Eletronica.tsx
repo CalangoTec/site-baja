@@ -8,8 +8,8 @@ import fotovini from "../../../assets/Subsistemas/Eletronica/vini.png"
 import fotoalva from "../../../assets/Subsistemas/Eletronica/alva.png"
 import fotocezim from "../../../assets/Subsistemas/Eletronica/cezim.png"
 import Footer from "../../../Elements/Footer.tsx";
-import foto1 from "../Eletronica/foto1.jpg"
-import foto2 from "../Eletronica/foto2.jpg"
+import foto1 from "../../../assets/Subsistemas/Eletronica/2elet.jpg"
+import foto2 from "../../../assets/Subsistemas/Eletronica/foto2.jpg"
 
 const membros = [
     {nome: "Pedro Lima", cargo: "Gerente", foto: fotopedro},
