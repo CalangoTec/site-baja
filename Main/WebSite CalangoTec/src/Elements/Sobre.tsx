@@ -1,7 +1,7 @@
 import carroSobre from '../assets/carroSobre.png';
 import trofeuSobre from '../assets/trofeuSobre.png';
 import calango from '../assets/calango.png';
-import timeSobre2 from '../assets/timeSobre2.png';
+import timeSobre2 from '../assets/fotoSobre3.jpg';
 
 function Sobre() {
   return (
