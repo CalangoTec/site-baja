@@ -5,7 +5,7 @@ import SubsistemaGenerico from "../SubsistemaGenerico"
 import fotojuli from "../../../assets/Subsistemas/Powertrain/juli.png"
 import fotolucas from "../../../assets/Subsistemas/Powertrain/lucas.png"
 import fotobernardo from "../../../assets/Subsistemas/Powertrain/bernardo.png"
-import fotopedro from "../../../assets/Subsistemas/Powertrain/pedro.png"
+import fotopedro from "../../../assets/Subsistemas/Powertrain/pedroAlma.png"
 import Footer from "../../../Elements/Footer.tsx";
 
 const membros = [

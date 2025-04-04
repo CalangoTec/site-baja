@@ -22,7 +22,7 @@ export default function Loja() {
                         {/* Card 1 */}
                         <div className="flex flex-col items-center">
                             <img src={cardLoja1} alt="cardLoja" className="rounded-lg" />
-                            <a href="" target='_blank'>
+                            <a href="#" >
                                 <button className="font-[knewave] w-[308px] mt-4 bg-gray-100 border-2 border-black text-black text-lg px-6 py-2 rounded-md hover:bg-gray-400 transition">
                                     ESGOTADO
                                 </button>
@@ -31,7 +31,7 @@ export default function Loja() {
                         {/* Card 2 */}
                         <div className="flex flex-col items-center">
                             <img src={cardLoja2} alt="cardLoja" className="rounded-lg" />
-                            <a href="" target='_blank'>
+                            <a href="#" >
                                 <button className="font-[knewave] w-[308px] mt-4 bg-gray-100 border-2 border-black text-black text-lg px-6 py-2 rounded-md hover:bg-gray-400 transition">
                                     ESGOTADO
                                 </button>
@@ -40,14 +40,14 @@ export default function Loja() {
                         {/* Card 3 */}
                         <div className="flex flex-col items-center">
                             <img src={cardLoja} alt="cardLoja" className="rounded-lg" />
-                            <a href="" target='_blank'>
+                            <a href="#" >
                                 <button className="font-[knewave] w-[308px] mt-4 bg-gray-100 border-2 border-black text-black text-lg px-6 py-2 rounded-md hover:bg-gray-400 transition">
-                                    UNIFORME 1
+                                    EM BREVE
                                 </button>
                             </a>
                         </div>
                     
-                        {/* Card 4 */}
+                        {/* Card 4 }
                         <div className="flex flex-col items-center">
                             <img src={cardLoja} alt="cardLoja" className="rounded-lg" />
                             <a href="" target='_blank'>
@@ -56,7 +56,7 @@ export default function Loja() {
                                 </button>
                             </a>
                         </div>
-                        {/* Card 5 */}
+                        {/* Card 5 }
                         <div className="flex flex-col items-center">
                             <img src={cardLoja} alt="cardLoja" className="rounded-lg" />
                             <a href="" target='_blank'>
@@ -65,7 +65,7 @@ export default function Loja() {
                                 </button>
                             </a>
                         </div>
-                        {/* Card 6 */}
+                        {/* Card 6 *}
                         <div className="flex flex-col items-center">
                             <img src={cardLoja} alt="cardLoja" className="rounded-lg" />
                             <a href="" target='_blank'>
@@ -73,7 +73,7 @@ export default function Loja() {
                                     COMPRAR
                                 </button>
                             </a>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>

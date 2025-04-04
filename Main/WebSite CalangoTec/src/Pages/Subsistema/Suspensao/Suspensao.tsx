@@ -10,8 +10,8 @@ import foto1 from "../../../assets/Subsistemas/Suspensao/foto1.jpg"
 
 const membros = [
     {nome: "Fernando Pessoa", cargo: "Gerente", foto: fotofernando},
-    {nome: "Larissa Dias", cargo: "Líder", foto: fotolari},
-    {nome: "Danilo Silva", cargo: "Membro", foto: fotodanilo},
+    {nome: "Danilo Silva", cargo: "Líder", foto: fotodanilo},
+    {nome: "Larissa Dias", cargo: "Membro", foto: fotolari},
     {nome: "Miguel Cervino", cargo: "Membro", foto: fotomiguel},
     
 ]
